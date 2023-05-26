@@ -1,0 +1,38 @@
+:root{
+    --h-100px: 100px;
+}
+.cor-nota-do{
+    background-color: rgb(167, 85, 2);
+    height: var(--h-100px);
+  }
+
+.cor-nota-re{
+    background-color: rgb(116, 139, 151);
+    height: var(--h-100px);
+}
+
+.cor-nota-mi{
+    background-color: rgb(255, 0, 255);
+    height: var(--h-100px);
+}
+
+.cor-nota-fa{
+    background-color: rgb(159, 169, 31);
+    height: var(--h-100px);
+}
+
+.cor-nota-sol{
+    background-color: rgb(255, 165, 0);
+    height: var(--h-100px);
+}
+
+.cor-nota-la{
+    background-color: rgb(243, 211, 82);
+    height: var(--h-100px);
+}
+
+.cor-nota-si{
+    background-color: rgb(255, 192, 203);
+    height: var(--h-100px);
+}
+
